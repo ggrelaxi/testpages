@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkread_the_city"]=self["webpackChunkread_the_city"]||[]).push([[443],{833:function(t,e,n){n.r(e),n.d(e,{default:function(){return d}});var a=n(3396);const r={class:"about"},u=(0,a._)("h1",null,"This is an about page",-1),c=[u];function s(t,e){return(0,a.wg)(),(0,a.iD)("div",r,c)}var i=n(89);const h={},o=(0,i.Z)(h,[["render",s]]);var d=o}}]);
+//# sourceMappingURL=about.1b3793ce.js.map
